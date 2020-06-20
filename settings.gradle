@@ -1,0 +1,8 @@
+rootProject.name = 'template'
+
+include(':template-common')
+include(':template-core')
+include(':template-persistence')
+include(':template-controller')
+include(':template-configuration')
+include(':template-testdata')
